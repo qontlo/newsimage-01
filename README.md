@@ -1,5 +1,9 @@
 # Tuesday 17 November 2026: 48 stories, six continents, one front page
 
+[![make.fun](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/qontlo/newsimage-01/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261117/qontlo/newsimage-01/reward.svg)](https://make.fun/bounty/news-image-20261117/leaderboard)
+
 A make.fun entry for the bounty
 ["Sum up 17 November's world news in one image"](https://make.fun/bounty/news-image-20261117)
 (`news-image-20261117`).
@@ -25,7 +29,7 @@ page happened or was first reported on Tuesday 17 November 2026.
 - **Grid 4–15** — Ebola, COP31, measles, Nvidia, Gaza, Mongolia,
   Serbia, Bangladesh, the An-12 crash, Mozambique, Voyager 1,
   Deutsche Bank.
-- **Where it happened** — solid-silhouette world map with numbered
+- **Where it happened** — dot-matrix world map with numbered
   pins 1–15 and a colour legend by region; Voyager 1 marked as a star
   in deep space.
 - **Also on Tuesday 17 November** — numbered index 16–48, one line each.
@@ -46,8 +50,8 @@ no clock, no network — two runs write byte-identical PNGs.
 ## Test results
 
 - Two runs from clean state: identical
-  `sha256 5349d87e76d8157727dc516a049d8f77a13d3cd985cbb353d399a02b03033997`
-- Dimensions: 1024×1024, PNG, 186,949 bytes (limit 1 MiB)
+  `sha256 3fba92646db1c63c84ece6c39e2e71125520c99e24e1be8fb7887b77daebba01`
+- Dimensions: 1024×1024, PNG, 212,157 bytes (limit 1 MiB)
 - 300 px preview (`preview300.png`): masthead, lead headlines and
   grid headlines stay readable.
 
